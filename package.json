@@ -1,0 +1,19 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "crud operation on sequelize",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "lucia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.26.0"
+  }
+}
